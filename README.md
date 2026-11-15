@@ -15,7 +15,7 @@
 | Đề cương nghiên cứu (PDF) | [Đề cương](TranThiHongNhung_26848157_DeCuong.pdf) |
 | Slide trình bày (PDF) | [Slide](TranThiHongNhung_26848157_Slide.pdf) |
 | Poster (PDF) | [Poster](TranThiHongNhung_26848157_Poster.pdf) |
-| Video YouTube (≤ 5 phút) | _cập nhật sau_ |
+| Video YouTube (≤ 5 phút) | [youtu.be/CGbUvM-nS60](https://youtu.be/CGbUvM-nS60) |
 
 ## Tóm tắt
 
