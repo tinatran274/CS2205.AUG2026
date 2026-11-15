@@ -1,11 +1,11 @@
-# CS2205.AUG2026 – Phương pháp luận nghiên cứu khoa học
+# CS2205.AUG2026 – Phương pháp nghiên cứu khoa học
 
 **Đề tài:** ĐÁNH GIÁ TÁC ĐỘNG CỦA CÁC PHƯƠNG PHÁP TĂNG SÁNG ẢNH THIẾU SÁNG ĐẾN HIỆU QUẢ PHÁT HIỆN ĐỐI TƯỢNG CỦA YOLO26: SO SÁNH GIỮA CHẤT LƯỢNG ẢNH VÀ ĐỘ CHÍNH XÁC PHÁT HIỆN
 
 **English title:** EVALUATING THE IMPACT OF LOW-LIGHT IMAGE ENHANCEMENT METHODS ON YOLO26 OBJECT DETECTION: IMAGE QUALITY VERSUS DETECTION ACCURACY
 
 - **Học viên:** Trần Thị Hồng Nhung – MSHV 26848157
-- **Môn học:** CS2205 – Phương pháp luận nghiên cứu khoa học (PGS.TS. Lê Đình Duy)
+- **Môn học:** CS2205 – Phương pháp nghiên cứu khoa học (PGS.TS. Lê Đình Duy)
 - **Trường:** Trường Đại học Công nghệ Thông tin, ĐHQG-HCM
 
 ## Tài liệu đồ án
