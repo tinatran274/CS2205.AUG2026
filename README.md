@@ -5,7 +5,7 @@
 **English title:** EVALUATING THE IMPACT OF LOW-LIGHT IMAGE ENHANCEMENT METHODS ON YOLO26 OBJECT DETECTION: IMAGE QUALITY VERSUS DETECTION ACCURACY
 
 - **Học viên:** Trần Thị Hồng Nhung – MSHV 26848157
-- **Môn học:** CS2205 – Phương pháp nghiên cứu khoa học (PGS.TS. Lê Đình Duy)
+- **Môn học:** Phương pháp nghiên cứu khoa học – CS2205.26.1.CH.01 (PGS.TS. Lê Đình Duy)
 - **Trường:** Trường Đại học Công nghệ Thông tin, ĐHQG-HCM
 
 ## Tài liệu đồ án
