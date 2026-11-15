@@ -12,9 +12,9 @@
 
 | Tài liệu | Link |
 |---|---|
-| Đề cương nghiên cứu (PDF) | [Đề cương](Nhung%20Tr%E1%BA%A7n%20Th%E1%BB%8B%20H%E1%BB%93ng%20-%20CS2205.AUG2026.DeCuong.FinalReport.Template.Doc.pdf) |
-| Slide trình bày (PDF) | [Slide](Nhung%20Tr%E1%BA%A7n%20Th%E1%BB%8B%20H%E1%BB%93ng%20-%20CS2205.AUG2026.DeCuong.FinalReport.Template.Slide.pdf) |
-| Poster (PDF) | [Poster](Nhung%20Tr%E1%BA%A7n%20Th%E1%BB%8B%20H%E1%BB%93ng%20-%20CS2205.AUG2026.DeCuong.FinalReport.Template.Poster.pdf) |
+| Đề cương nghiên cứu (PDF) | [Đề cương](TranThiHongNhung_26848157_DeCuong.pdf) |
+| Slide trình bày (PDF) | [Slide](TranThiHongNhung_26848157_Slide.pdf) |
+| Poster (PDF) | [Poster](TranThiHongNhung_26848157_Poster.pdf) |
 | Video YouTube (≤ 5 phút) | _cập nhật sau_ |
 
 ## Tóm tắt
